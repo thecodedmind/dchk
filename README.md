@@ -1,6 +1,8 @@
 # dchk
 CLI app for file content searching.
 
+Either compile from source with Nim compiler, `nim c dchk.nim`, or drop the pre-compiled linux amd64 binary in a PATH directory.
+
 ```sh
 [kaiz0r@playground~]$ dchk -h
 dchk [search] [-c] [-r]/[-r:2]
